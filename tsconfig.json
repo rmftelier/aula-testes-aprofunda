@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2020", //qual versão do JavaScript utilizar
+    "module": "commonjs", //qual módulo utilizar
+    "rootDir": "./src", //diretório raiz do código fonte
+    "outDir": "./dist", //diretório de saída do código compilado
+    "strict": true, //ativar todas as verificações estritas
+    "esModuleInterop": true, //habilitar interoperabilidade com módulos ES
+  }
+}
