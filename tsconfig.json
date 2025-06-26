@@ -5,6 +5,6 @@
     "rootDir": "./src", //diretório raiz do código fonte
     "outDir": "./dist", //diretório de saída do código compilado
     "strict": true, //ativar todas as verificações estritas
-    "esModuleInterop": true, //habilitar interoperabilidade com módulos ES
+    "esModuleInterop": true //habilitar interoperabilidade com módulos ES
   }
 }
